@@ -1,4 +1,4 @@
-# Hosted Link : https://mansi2020.github.io/css_assign8_special_project/  
+# Hosted Link : https://mansi2020.github.io/css_youtube_ui/  
 <hr>
 <!-- ---------------------------------------------------------------Navbar bar section -------------------------------------------------->
 <h1> Navbar UI</h1>
